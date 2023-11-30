@@ -76,7 +76,10 @@ footer
         grid-template-rows:  100px 460px 100px;
         
     }
-    
+    aside
+    {
+        padding-top: 180px;
+    }
 }
 @media screen and (min-width:1008px)
 {
@@ -91,7 +94,10 @@ footer
         grid-column-start: 1;
         grid-column-end: 5;
     }
-    
+    aside
+    {
+        padding-top: 50px;
+    }
     
     main
     {
